@@ -12,8 +12,8 @@
 class Klip < Formula
   desc "Secure P2P clipboard sharing and file transfer across devices on your LAN"
   homepage "https://klip-it.app"
-  url "https://github.com/PatrykDz95/Klip/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "712d8400162ea8a355248f20b7c3265f3119c887644fdc764e031cce426eb405"
+  url "https://github.com/PatrykDz95/Klip/archive/refs/tags/v1.0.6.tar.gz"
+  sha256 "34d9801e49321819e4c3867e558b1064a9876601d580cb3a3bbb931b8b49f4bf"
   license "GPL-3.0-or-later"
   head "https://github.com/PatrykDz95/Klip.git", branch: "master"
 
